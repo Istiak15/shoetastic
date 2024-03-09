@@ -1,0 +1,212 @@
+[
+    {
+        "_id": 1,
+        "author": "Albert Einstein",
+        "text": "Imagination is more important than knowledge.",
+        "adjective": "insightful"
+    },
+    {
+        "_id": 2,
+        "author": "Mahatma Gandhi",
+        "text": "Be the change that you wish to see in the world.",
+        "adjective": "inspirational"
+    },
+    {
+        "_id": 3,
+        "author": "Maya Angelou",
+        "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+        "adjective": "profound"
+    },
+    {
+        "_id": 4,
+        "author": "Martin Luther King Jr.",
+        "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+        "adjective": "wise"
+    },
+    {
+        "_id": 5,
+        "author": "Buddha",
+        "text": "The mind is everything. What you think you become.",
+        "adjective": "enlightening"
+    },
+    {
+        "_id": 6,
+        "author": "Steve Jobs",
+        "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+        "adjective": "motivational"
+    },
+    {
+        "_id": 7,
+        "author": "Oprah Winfrey",
+        "text": "The biggest adventure you can take is to live the life of your dreams.",
+        "adjective": "encouraging"
+    },
+    {
+        "_id": 8,
+        "author": "Walt Disney",
+        "text": "All our dreams can come true, if we have the courage to pursue them.",
+        "adjective": "inspiring"
+    },
+    {
+        "_id": 9,
+        "author": "Mark Twain",
+        "text": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",
+        "adjective": "thought-provoking"
+    },
+    {
+        "_id": 10,
+        "author": "Helen Keller",
+        "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+        "adjective": "touching"
+    },
+    {
+        "_id": 11,
+        "author": "Nelson Mandela",
+        "text": "Education is the most powerful weapon which you can use to change the world.",
+        "adjective": "empowering"
+    },
+    {
+        "_id": 12,
+        "author": "Eleanor Roosevelt",
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "adjective": "hopeful"
+    },
+    {
+        "_id": 13,
+        "author": "Vincent Van Gogh",
+        "text": "I am seeking. I am striving. I am in it with all my heart.",
+        "adjective": "dedicated"
+    },
+    {
+        "_id": 14,
+        "author": "Ralph Waldo Emerson",
+        "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "adjective": "adventurous"
+    },
+    {
+        "_id": 15,
+        "author": "Albert Schweitzer",
+        "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "adjective": "uplifting"
+    },
+    {
+        "_id": 16,
+        "author": "Rumi",
+        "text": "The wound is the place where the Light enters you.",
+        "adjective": "spiritual"
+    },
+    {
+        "_id": 17,
+        "author": "Harriet Tubman",
+        "text": "Every great dream begins with a dreamer. Remember, you have within you the strength to reach for the stars to change the world.",
+        "adjective": "motivational"
+    },
+    {
+        "_id": 18,
+        "author": "Henry David Thoreau",
+        "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+        "adjective": "inspirational"
+    },
+    {
+        "_id": 19,
+        "author": "Confucius",
+        "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+        "adjective": "uplifting"
+    },
+    {
+        "_id": 20,
+        "author": "Leo Tolstoy",
+        "text": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+        "adjective": "thought-provoking"
+    },
+    {
+        "_id": 21,
+        "author": "Rosa Parks",
+        "text": "I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear.",
+        "adjective": "empowering"
+    },
+    {
+        "_id": 22,
+        "author": "Winston Churchill",
+        "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "adjective": "encouraging"
+    },
+    {
+        "_id": 23,
+        "author": "Maya Angelou",
+        "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+        "adjective": "resilient"
+    },
+    {
+        "_id": 24,
+        "author": "Harvey Milk",
+        "text": "Hope will never be silent.",
+        "adjective": "inspirational"
+    },
+    {
+        "_id": 25,
+        "author": "John F. Kennedy",
+        "text": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+        "adjective": "thoughtful"
+    },
+    {
+        "_id": 26,
+        "author": "Anne Frank",
+        "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+        "adjective": "optimistic"
+    },
+    {
+        "_id": 27,
+        "author": "Eleanor Roosevelt",
+        "text": "Do what you feel in your heart to be right - for you'll be criticized anyway. You'll be damned if you do, and damned if you don't.",
+        "adjective": "courageous"
+    },
+    {
+        "_id": 28,
+        "author": "Oscar Wilde",
+        "text": "Be yourself; everyone else is already taken.",
+        "adjective": "authentic"
+    },
+    {
+        "_id": 29,
+        "author": "Mother Teresa",
+        "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "adjective": "compassionate"
+    },
+    {
+        "_id": 30,
+        "author": "Albert Camus",
+        "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "adjective": "hopeful"
+    },
+    {
+        "_id": 31,
+        "author": "Socrates",
+        "text": "The only true wisdom is in knowing you know nothing.",
+        "adjective": "wise"
+    },
+    {
+        "_id": 32,
+        "author": "Audrey Hepburn",
+        "text": "The most important thing is to enjoy your life – to be happy – it's all that matters.",
+        "adjective": "joyful"
+    },
+    {
+        "_id": 33,
+        "author": "George Eliot",
+        "text": "It is never too late to be what you might have been.",
+        "adjective": "encouraging"
+    },
+    {
+        "_id": 34,
+        "author": "Walt Whitman",
+        "text": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+        "adjective": "optimistic"
+    },
+    {
+        "_id": 35,
+        "author": "Pablo Picasso",
+        "text": "Everything you can imagine is real.",
+        "adjective": "imaginative"
+    }
+]
